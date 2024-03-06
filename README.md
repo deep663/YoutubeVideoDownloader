@@ -11,7 +11,6 @@ This is a simple YouTube video downloader built using PyQt5 and various Python l
 - **Download Selected:** After searching, select one or more videos from the results and click "Download Selected" to start the download process.
 
 - **Select Download Folder:** Choose the destination folder for downloaded videos.
-
 ## Requirements
 
 - Python 3.x
@@ -55,7 +54,7 @@ This is a simple YouTube video downloader built using PyQt5 and various Python l
 
 7. Optionally, click the "Select Download Folder" button to choose a specific destination folder for the downloads.
 
-8. I have included a setup file of this appliction. 
+8. I have included a setup file of this appliction [here](https://www.dropbox.com/scl/fi/swzs544u7amr3pcf2iwhx/YoutubeDownloaderSetup.exe?rlkey=woof9a21e3baxypo8ea2vc6t2&dl=0). 
 
 ## Contributing
 
